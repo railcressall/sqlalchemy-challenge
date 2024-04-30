@@ -1,5 +1,7 @@
 # sqlalchemy-challenge
 
+you will find both the Jupyter Notebook and Flask API script in the surfs up folder within this repo. 
+
 When running my Flask Script I had to use the absolute path when creating my engine to get it to attach to the Juypter Notebook. 
 
 I have provided what should be the relative path. If you need me to update my code to reflect this for proper grading please let me know so I can work with my Instructor and TA to get this corrected. 
