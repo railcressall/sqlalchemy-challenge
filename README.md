@@ -8,6 +8,6 @@ I have provided what should be the relative path. If you need me to update my co
 
 If you are unable to grade due to the absolute path, please also let me know so I can work with them to get this corrected. 
 
-Relative path = engine = create_engine("sqlite:///Resources/hawaii.sqlite")
+Relative path = engine = create_engine("sqlite:///../Module 10 Starter Code/Resources/hawaii.sqlite")
 
 I am not sure why I could not get it to run on my local using this path. 
